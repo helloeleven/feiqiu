@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/background.jpg</file>
+        <file>img/busy.PNG</file>
+        <file>img/close.bmp</file>
+        <file>img/close_hover.ico</file>
+        <file>img/head.bmp</file>
+        <file>img/likai.PNG</file>
+        <file>img/minsize.bmp</file>
+        <file>img/myicon.ico</file>
+        <file>img/sousuo.PNG</file>
+        <file>img/yinshen.PNG</file>
+        <file>img/zaixian.PNG</file>
+        <file>img/tuopan.jpg</file>
+        <file>img/list_close.bmp</file>
+        <file>img/list_show.bmp</file>
+        <file>list.qss</file>
+        <file>img/bmp357.bmp</file>
+        <file>img/bmp358.bmp</file>
+        <file>img/bmp359.bmp</file>
+        <file>img/bmp360.bmp</file>
+        <file>img/xinfeng.jpg</file>
+        <file>img/2.bmp</file>
+        <file>img/3.bmp</file>
+        <file>img/4.bmp</file>
+        <file>img/5.bmp</file>
+        <file>img/6.bmp</file>
+        <file>img/7.bmp</file>
+        <file>img/8.bmp</file>
+        <file>img/9.bmp</file>
+        <file>img/10.bmp</file>
+        <file>img/12.bmp</file>
+        <file>img/13.bmp</file>
+        <file>img/music.PNG</file>
+        <file>img/add.jpg</file>
+        <file>img/wzq2.jpg</file>
+        <file>img/baidu.jpg</file>
+    </qresource>
+</RCC>
